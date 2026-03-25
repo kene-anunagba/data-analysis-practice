@@ -1,4 +1,4 @@
-# data-analysis-practice
+# Data Analysis Practice
 This project focuses on basic data cleaning, structuring, and analysis using Python and Excel.
 ## What I’m practicing
 - Cleaning datasets (handling missing values, duplicates)
