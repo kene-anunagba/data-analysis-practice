@@ -8,4 +8,4 @@ This project focuses on basic data cleaning, structuring, and analysis using Pyt
 - Python (pandas)
 - Excel
 ## Goal
-To improve my ability to work with real-world data and build efficient workflows for analysis.
+To improve my ability to work with real data and build efficient workflows for analysis.
